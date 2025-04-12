@@ -1,17 +1,52 @@
 {
   "id": "char_003",
-  "name": "Character_3",
-  "rarity": "Common",
-  "rarity_color": "#bbbbbb",
+  "name": "Ellie Gearheart",
+  "rarity": "Epic",
+  "rarity_color": "#aa00ff",
   "class": "Support",
-  "tags": [
-    "#Common",
-    "#Support"
-  ],
-  "abilities": {
-    "passive": "Passive ability of Character_3 with role Support.",
-    "active": "Active skill of Character_3 unleashing power as a Support.",
-    "ultimate": null
+  "type": "Emotional Buffer",
+  "tags": ["#Epic", "#Support", "#Healer", "#Inspiration", "#Steampunk"],
+  "images": {
+    "preview": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/assets%2Fcharacters%2Fchar_003%2Fpreview.png?alt=media",
+    "full": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/assets%2Fcharacters%2Fchar_003%2Ffull.png?alt=media",
+    "chibi": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/assets%2Fcharacters%2Fchar_003%2Fchibi.gif?alt=media",
+    "skillIcon": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/assets%2Ficons%2Fskill_char03.png?alt=media"
   },
-  "lore": "Character_3 is a mysterious support who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+  "sounds": {
+    "voice": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/sounds%2Fvoice_char03.mp3?alt=media",
+    "skill": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/sounds%2Fskill_char03.mp3?alt=media",
+    "summon": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/sounds%2Fsummon_char03.mp3?alt=media"
+  },
+  "animations": {
+    "idle": "idle_char03.anim",
+    "attack": "attack_char03.anim",
+    "skill": "skill_char03.anim"
+  },
+  "status": {
+    "hp": 1350,
+    "atk": 460,
+    "def": 420,
+    "res": 400,
+    "spd": 110,
+    "range": 3,
+    "block": 1
+  },
+  "abilities": {
+    "passive": "Nearby allies gain increased healing received and calm state, reducing debuff duration by 30%.",
+    "active": "Performs a musical burst that heals allies and briefly grants immunity to crowd control.",
+    "ultimate": "Activates 'Solar Aria', fully restoring HP of allies within range and shielding them from damage for 5 seconds."
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Harmony Conductor",
+      "bonus": "+20% AoE Heal Effect, +15% Skill Cooldown Reduction",
+      "unlock_skill": "Echo Pulse"
+    },
+    "pathB": {
+      "title": "Steamsoul Architect",
+      "bonus": "Allies gain temporary shield when healed, +10% DEF",
+      "unlock_skill": "Gear Resonance"
+    }
+  },
+  "lore": "Ellie Gearheart von Aetherwing is more than just an inventor—she’s the heart of the Solar Ark, a steampunk airship that sails the skies between fractured realms. Her melodies soothe even the most tormented souls, while her machines pulse with hope and harmony. Those who hear her sing... often find the will to fight once more."
 }
