@@ -1,0 +1,17 @@
+{
+  "id": "char_027",
+  "name": "Character_27",
+  "rarity": "Epic",
+  "rarity_color": "#aa00ff",
+  "class": "Caster",
+  "tags": [
+    "#Epic",
+    "#Caster"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_27 with role Caster.",
+    "active": "Active skill of Character_27 unleashing power as a Caster.",
+    "ultimate": "Ultimate move of Character_27, devastating and unique."
+  },
+  "lore": "Character_27 is a mysterious caster who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

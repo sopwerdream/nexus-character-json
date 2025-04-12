@@ -1,0 +1,17 @@
+{
+  "id": "char_017",
+  "name": "Character_17",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "Support",
+  "tags": [
+    "#Rare",
+    "#Support"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_17 with role Support.",
+    "active": "Active skill of Character_17 unleashing power as a Support.",
+    "ultimate": null
+  },
+  "lore": "Character_17 is a mysterious support who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

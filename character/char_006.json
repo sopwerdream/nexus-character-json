@@ -1,0 +1,17 @@
+{
+  "id": "char_006",
+  "name": "Character_6",
+  "rarity": "Common",
+  "rarity_color": "#bbbbbb",
+  "class": "Caster",
+  "tags": [
+    "#Common",
+    "#Caster"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_6 with role Caster.",
+    "active": "Active skill of Character_6 unleashing power as a Caster.",
+    "ultimate": null
+  },
+  "lore": "Character_6 is a mysterious caster who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

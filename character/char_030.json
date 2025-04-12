@@ -1,0 +1,17 @@
+{
+  "id": "char_030",
+  "name": "Character_30",
+  "rarity": "Legendary",
+  "rarity_color": "#ffaa00",
+  "class": "DPS",
+  "tags": [
+    "#Legendary",
+    "#DPS"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_30 with role DPS.",
+    "active": "Active skill of Character_30 unleashing power as a DPS.",
+    "ultimate": "Ultimate move of Character_30, devastating and unique."
+  },
+  "lore": "Character_30 is a mysterious dps who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

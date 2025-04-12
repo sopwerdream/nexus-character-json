@@ -1,0 +1,17 @@
+{
+  "id": "char_026",
+  "name": "Character_26",
+  "rarity": "Epic",
+  "rarity_color": "#aa00ff",
+  "class": "Debuffer",
+  "tags": [
+    "#Epic",
+    "#Debuffer"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_26 with role Debuffer.",
+    "active": "Active skill of Character_26 unleashing power as a Debuffer.",
+    "ultimate": "Ultimate move of Character_26, devastating and unique."
+  },
+  "lore": "Character_26 is a mysterious debuffer who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

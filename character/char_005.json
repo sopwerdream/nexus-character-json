@@ -1,0 +1,17 @@
+{
+  "id": "char_005",
+  "name": "Character_5",
+  "rarity": "Common",
+  "rarity_color": "#bbbbbb",
+  "class": "Debuffer",
+  "tags": [
+    "#Common",
+    "#Debuffer"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_5 with role Debuffer.",
+    "active": "Active skill of Character_5 unleashing power as a Debuffer.",
+    "ultimate": null
+  },
+  "lore": "Character_5 is a mysterious debuffer who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

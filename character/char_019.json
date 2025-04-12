@@ -1,0 +1,17 @@
+{
+  "id": "char_019",
+  "name": "Character_19",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "Debuffer",
+  "tags": [
+    "#Rare",
+    "#Debuffer"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_19 with role Debuffer.",
+    "active": "Active skill of Character_19 unleashing power as a Debuffer.",
+    "ultimate": null
+  },
+  "lore": "Character_19 is a mysterious debuffer who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

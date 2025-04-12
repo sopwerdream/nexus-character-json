@@ -1,0 +1,17 @@
+{
+  "id": "char_015",
+  "name": "Character_15",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "Tank",
+  "tags": [
+    "#Rare",
+    "#Tank"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_15 with role Tank.",
+    "active": "Active skill of Character_15 unleashing power as a Tank.",
+    "ultimate": null
+  },
+  "lore": "Character_15 is a mysterious tank who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "char_013",
+  "name": "Character_13",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "Caster",
+  "tags": [
+    "#Rare",
+    "#Caster"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_13 with role Caster.",
+    "active": "Active skill of Character_13 unleashing power as a Caster.",
+    "ultimate": null
+  },
+  "lore": "Character_13 is a mysterious caster who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

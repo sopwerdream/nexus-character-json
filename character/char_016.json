@@ -1,0 +1,17 @@
+{
+  "id": "char_016",
+  "name": "Character_16",
+  "rarity": "Rare",
+  "rarity_color": "#00aaff",
+  "class": "DPS",
+  "tags": [
+    "#Rare",
+    "#DPS"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_16 with role DPS.",
+    "active": "Active skill of Character_16 unleashing power as a DPS.",
+    "ultimate": null
+  },
+  "lore": "Character_16 is a mysterious dps who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

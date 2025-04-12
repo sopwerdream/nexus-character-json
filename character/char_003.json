@@ -1,0 +1,17 @@
+{
+  "id": "char_003",
+  "name": "Character_3",
+  "rarity": "Common",
+  "rarity_color": "#bbbbbb",
+  "class": "Support",
+  "tags": [
+    "#Common",
+    "#Support"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_3 with role Support.",
+    "active": "Active skill of Character_3 unleashing power as a Support.",
+    "ultimate": null
+  },
+  "lore": "Character_3 is a mysterious support who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

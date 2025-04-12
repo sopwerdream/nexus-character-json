@@ -1,0 +1,17 @@
+{
+  "id": "char_004",
+  "name": "Character_4",
+  "rarity": "Common",
+  "rarity_color": "#bbbbbb",
+  "class": "Healer",
+  "tags": [
+    "#Common",
+    "#Healer"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_4 with role Healer.",
+    "active": "Active skill of Character_4 unleashing power as a Healer.",
+    "ultimate": null
+  },
+  "lore": "Character_4 is a mysterious healer who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}

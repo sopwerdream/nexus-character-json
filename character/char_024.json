@@ -1,0 +1,17 @@
+{
+  "id": "char_024",
+  "name": "Character_24",
+  "rarity": "Epic",
+  "rarity_color": "#aa00ff",
+  "class": "Support",
+  "tags": [
+    "#Epic",
+    "#Support"
+  ],
+  "abilities": {
+    "passive": "Passive ability of Character_24 with role Support.",
+    "active": "Active skill of Character_24 unleashing power as a Support.",
+    "ultimate": "Ultimate move of Character_24, devastating and unique."
+  },
+  "lore": "Character_24 is a mysterious support who emerged during the collapse of Arklyra. Their journey reveals deep truths of the Nexus."
+}
