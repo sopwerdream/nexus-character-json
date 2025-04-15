@@ -8,9 +8,9 @@
   },
   {
     "id": "char_002",
-    "name": "Common Zara",
-    "rarity": "Common",
-    "rarity_color": "#bbbbbb",
+     "name": "Nyssra Vael'ryn",
+     "rarity": "Epic",
+     "rarity_color": "#aa00ff"
     "file": "char_002.json"
   },
   {
