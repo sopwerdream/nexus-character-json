@@ -1,24 +1,24 @@
 [
   {
-    "id": "char_026",
+    "id": "char_027",
+     "name": "Nyssra Vael'ryn",
+    "rarity": "Epic",
+    "rarity_color": "#aa00ff",
+    "file": "char_027.json"
+  },
+  {
+    "id": "char_025",
     "name": "Epic Solin",
     "rarity": "Epic",
     "rarity_color": "#aa00ff",
-    "file": "char_026.json"
+    "file": "char_025.json"
   },
   {
-    "id": "char_022",
-    "name": "Epic Lunaris",
-    "rarity": "Epic",
-    "rarity_color": "#aa00ff",
-    "file": "char_022.json"
-  },
-  {
-    "id": "char_030",
-    "name": "Legendary Flare",
+    "id": "char_029",
+    "name": "Legendary Quinn",
     "rarity": "Legendary",
     "rarity_color": "#ffaa00",
-    "file": "char_030.json"
+    "file": "char_029.json"
   },
   {
     "id": "char_001",
