@@ -6,5 +6,165 @@
     "rarity_color": "#aa00ff",
     "file": "char_027.json"
   },
-  
+  {
+    "id": "char_025",
+    "name": "Epic Solin",
+    "rarity": "Epic",
+    "rarity_color": "#aa00ff",
+    "file": "char_025.json"
+  },
+  {
+    "id": "char_029",
+    "name": "Legendary Quinn",
+    "rarity": "Legendary",
+    "rarity_color": "#ffaa00",
+    "file": "char_029.json"
+  },
+  {
+    "id": "char_001",
+    "name": "Common Quinn",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_001.json"
+  },
+  {
+    "id": "char_002",
+    "name": "Common Zara",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_002.json"
+  },
+  {
+    "id": "char_003",
+    "name": "Common Flare",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_003.json"
+  },
+  {
+    "id": "char_004",
+    "name": "Common Flare",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_004.json"
+  },
+  {
+    "id": "char_005",
+    "name": "Common Solin",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_005.json"
+  },
+  {
+    "id": "char_006",
+    "name": "Common Aether",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_006.json"
+  },
+  {
+    "id": "char_007",
+    "name": "Common Nova",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_007.json"
+  },
+  {
+    "id": "char_008",
+    "name": "Common Aether",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_008.json"
+  },
+  {
+    "id": "char_009",
+    "name": "Common Flare",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_009.json"
+  },
+  {
+    "id": "char_010",
+    "name": "Common Lunaris",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_010.json"
+  },
+  {
+    "id": "char_011",
+    "name": "Common Aether",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_011.json"
+  },
+  {
+    "id": "char_012",
+    "name": "Common Flare",
+    "rarity": "Common",
+    "rarity_color": "#bbbbbb",
+    "file": "char_012.json"
+  },
+  {
+    "id": "char_013",
+    "name": "Rare Solin",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_013.json"
+  },
+  {
+    "id": "char_014",
+    "name": "Rare Lunaris",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_014.json"
+  },
+  {
+    "id": "char_015",
+    "name": "Rare Vex",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_015.json"
+  },
+  {
+    "id": "char_016",
+    "name": "Rare Aether",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_016.json"
+  },
+  {
+    "id": "char_017",
+    "name": "Rare Nova",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_017.json"
+  },
+  {
+    "id": "char_018",
+    "name": "Rare Zara",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_018.json"
+  },
+  {
+    "id": "char_019",
+    "name": "Rare Flare",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_019.json"
+  },
+  {
+    "id": "char_020",
+    "name": "Rare Echo",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_020.json"
+  },
+  {
+    "id": "char_021",
+    "name": "Rare Nova",
+    "rarity": "Rare",
+    "rarity_color": "#00aaff",
+    "file": "char_021.json"
+  }
 ]
