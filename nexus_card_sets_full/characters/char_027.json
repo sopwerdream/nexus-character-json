@@ -6,11 +6,7 @@
   "class": "Support",
   "type": "Memory Caster",
   "tags": ["#Epic", "#Support", "#Memory", "#ARKCODE"],
-  "images": {
-  
-    "chibi": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/assets%2Fcharacters%2Fchar_027%2Fchibi.gif?alt=media",
-    "skillIcon": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/assets%2Ficons%2Fskill_char_027.png?alt=media"
-  },
+
   "sounds": {
     "voice": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/sounds%2Fvoice_char_027.mp3?alt=media",
     "skill": "https://firebasestorage.googleapis.com/v0/b/sark-gasa-game-project.appspot.com/o/sounds%2Fskill_char_027.mp3?alt=media",
