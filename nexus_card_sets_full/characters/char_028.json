@@ -1,75 +1,75 @@
- {
-    "uid": "card_kain_001",
-    "id": "char_003",
-    "name": "Kain Strider",
-    "rarity": "Legendary",
-    "class": "Support",
-    "type": "Memory Caster",
-    "tags": [
-      "#Legendary",
-      "#Support",
-      "#Memory"
-    ],
-    "images": {
-      "preview": "characters/char_003/preview.png",
-      "full": "characters/char_003/full.png",
-      "chibi": "characters/char_003/chibi.png",
-      "conquerorA": "characters/char_003/conqueror_pathA.png",
-      "conquerorB": "characters/char_003/conqueror_pathB.png"
-    },
-    "sounds": {
-      "voice": "sounds/char_003/voice.mp3",
-      "skill": "sounds/char_003/skill.mp3",
-      "summon": "sounds/char_003/summon.mp3"
-    },
-    "animations": {
-      "idle": "animations/char_003/idle.gif",
-      "walk": "animations/char_003/walk.gif",
-      "attack": "animations/char_003/attack.gif",
-      "skill": "animations/char_003/skill.gif",
-      "death": "animations/char_003/death.gif"
-    },
-    "status": {
-      "hp": 1200,
-      "atk": 500,
-      "def": 300,
-      "res": 200,
-      "spd": 100,
-      "range": 3,
-      "block": 1
-    },
-    "abilities": {
-      "passive": "Passive healing effect.",
-      "active": "AOE defense boost + stun enemies.",
-      "ultimate": "Revives allies with 50% HP."
-    },
-    "upgrade": {
-      "level": 30,
-      "stars": 5,
-      "xp": 999,
-      "chosenPath": "pathA",
-      "evolved": true,
-      "conqueror": {
-        "unlocked": true,
-        "title": "Blade Reaper Conqueror",
-        "altPreview": "characters/char_003/conqueror_pathA.png",
-        "bonus": "+10% All Stats"
-      }
-    },
-    "evolution_paths": {
-      "pathA": {
-        "title": "Blade Reaper",
-        "bonus": "+20% Healing",
-        "unlock_skill": "Sanctuary Field"
-      },
-      "pathB": {
-        "title": "Quantum Shadow",
-        "bonus": "+15% DEF",
-        "unlock_skill": "Memory Aegis"
-      }
-    },
-    "lore": "Kain Strider is a mysterious being tied to ancient power and memory resonance.",
-    "isNew": true,
-    "locked": false,
-    "receivedAt": 1745429180386
+{
+  "uid": "card_kain_028",
+  "id": "char_028",
+  "name": "Kain Strider",
+  "rarity": "Legendary",
+  "class": "Support",
+  "type": "Memory Caster",
+  "tags": [
+    "#Legendary",
+    "#Support",
+    "#Memory"
+  ],
+  "images": {
+    "preview": "characters/char_028/preview.png",
+    "full": "characters/char_028/full.png",
+    "chibi": "characters/char_028/chibi.png",
+    "conquerorA": "characters/char_028/conqueror_pathA.png",
+    "conquerorB": "characters/char_028/conqueror_pathB.png"
   },
+  "sounds": {
+    "voice": "sounds/char_028/voice.mp3",
+    "skill": "sounds/char_028/skill.mp3",
+    "summon": "sounds/char_028/summon.mp3"
+  },
+  "animations": {
+    "idle": "animations/char_028/idle.gif",
+    "walk": "animations/char_028/walk.gif",
+    "attack": "animations/char_028/attack.gif",
+    "skill": "animations/char_028/skill.gif",
+    "death": "animations/char_028/death.gif"
+  },
+  "status": {
+    "hp": 1200,
+    "atk": 500,
+    "def": 300,
+    "res": 200,
+    "spd": 100,
+    "range": 3,
+    "block": 1
+  },
+  "abilities": {
+    "passive": "Passive healing effect.",
+    "active": "AOE defense boost + stun enemies.",
+    "ultimate": "Revives allies with 50% HP."
+  },
+  "upgrade": {
+    "level": 30,
+    "stars": 5,
+    "xp": 999,
+    "chosenPath": "pathA",
+    "evolved": true,
+    "conqueror": {
+      "unlocked": true,
+      "title": "Blade Reaper Conqueror",
+      "altPreview": "characters/char_028/conqueror_pathA.png",
+      "bonus": "+10% All Stats"
+    }
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Blade Reaper",
+      "bonus": "+20% Healing",
+      "unlock_skill": "Sanctuary Field"
+    },
+    "pathB": {
+      "title": "Quantum Shadow",
+      "bonus": "+15% DEF",
+      "unlock_skill": "Memory Aegis"
+    }
+  },
+  "lore": "Kain Strider is a mysterious being tied to ancient power and memory resonance.",
+  "isNew": true,
+  "locked": false,
+  "receivedAt": 1745429180386
+}
