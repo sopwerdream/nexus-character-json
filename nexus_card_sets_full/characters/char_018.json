@@ -1,76 +1,75 @@
-
-  {
-    "uid": "card_silva_001",
-    "id": "char_018",
-    "name": "Silva Nocturne",
-    "rarity": "Rare",
-    "class": "Support",
-    "type": "Memory Caster",
-    "tags": [
-      "#Rare",
-      "#Support",
-      "#Memory"
-    ],
-    "images": {
-      "preview": "characters/char_004/preview.png",
-      "full": "characters/char_004/full.png",
-      "chibi": "characters/char_004/chibi.png",
-      "conquerorA": "characters/char_004/conqueror_pathA.png",
-      "conquerorB": "characters/char_004/conqueror_pathB.png"
-    },
-    "sounds": {
-      "voice": "sounds/char_004/voice.mp3",
-      "skill": "sounds/char_004/skill.mp3",
-      "summon": "sounds/char_004/summon.mp3"
-    },
-    "animations": {
-      "idle": "animations/char_004/idle.gif",
-      "walk": "animations/char_004/walk.gif",
-      "attack": "animations/char_004/attack.gif",
-      "skill": "animations/char_004/skill.gif",
-      "death": "animations/char_004/death.gif"
-    },
-    "status": {
-      "hp": 1200,
-      "atk": 500,
-      "def": 300,
-      "res": 200,
-      "spd": 100,
-      "range": 3,
-      "block": 1
-    },
-    "abilities": {
-      "passive": "Passive healing effect.",
-      "active": "AOE defense boost + stun enemies.",
-      "ultimate": "Revives allies with 50% HP."
-    },
-    "upgrade": {
-      "level": 30,
-      "stars": 5,
-      "xp": 999,
-      "chosenPath": "pathA",
-      "evolved": true,
-      "conqueror": {
-        "unlocked": true,
-        "title": "Silent Bloom Conqueror",
-        "altPreview": "characters/char_004/conqueror_pathA.png",
-        "bonus": "+10% All Stats"
-      }
-    },
-    "evolution_paths": {
-      "pathA": {
-        "title": "Silent Bloom",
-        "bonus": "+20% Healing",
-        "unlock_skill": "Sanctuary Field"
-      },
-      "pathB": {
-        "title": "Lunar Warden",
-        "bonus": "+15% DEF",
-        "unlock_skill": "Memory Aegis"
-      }
-    },
-    "lore": "Silva Nocturne is a mysterious being tied to ancient power and memory resonance.",
-    "isNew": true,
-    "locked": false,
-    "receivedAt": 1745429180386
+{
+  "uid": "card_silva_018",
+  "id": "char_018",
+  "name": "Silva Nocturne",
+  "rarity": "Rare",
+  "class": "Support",
+  "type": "Memory Caster",
+  "tags": [
+    "#Rare",
+    "#Support",
+    "#Memory"
+  ],
+  "images": {
+    "preview": "characters/char_018/preview.png",
+    "full": "characters/char_018/full.png",
+    "chibi": "characters/char_018/chibi.png",
+    "conquerorA": "characters/char_018/conqueror_pathA.png",
+    "conquerorB": "characters/char_018/conqueror_pathB.png"
   },
+  "sounds": {
+    "voice": "sounds/char_018/voice.mp3",
+    "skill": "sounds/char_018/skill.mp3",
+    "summon": "sounds/char_018/summon.mp3"
+  },
+  "animations": {
+    "idle": "animations/char_018/idle.gif",
+    "walk": "animations/char_018/walk.gif",
+    "attack": "animations/char_018/attack.gif",
+    "skill": "animations/char_018/skill.gif",
+    "death": "animations/char_018/death.gif"
+  },
+  "status": {
+    "hp": 1200,
+    "atk": 500,
+    "def": 300,
+    "res": 200,
+    "spd": 100,
+    "range": 3,
+    "block": 1
+  },
+  "abilities": {
+    "passive": "Passive healing effect.",
+    "active": "AOE defense boost + stun enemies.",
+    "ultimate": "Revives allies with 50% HP."
+  },
+  "upgrade": {
+    "level": 30,
+    "stars": 5,
+    "xp": 999,
+    "chosenPath": "pathA",
+    "evolved": true,
+    "conqueror": {
+      "unlocked": true,
+      "title": "Silent Bloom Conqueror",
+      "altPreview": "characters/char_018/conqueror_pathA.png",
+      "bonus": "+10% All Stats"
+    }
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": "Silent Bloom",
+      "bonus": "+20% Healing",
+      "unlock_skill": "Sanctuary Field"
+    },
+    "pathB": {
+      "title": "Lunar Warden",
+      "bonus": "+15% DEF",
+      "unlock_skill": "Memory Aegis"
+    }
+  },
+  "lore": "Silva Nocturne is a mysterious being tied to ancient power and memory resonance.",
+  "isNew": true,
+  "locked": false,
+  "receivedAt": 1745429180386
+}
