@@ -1,0 +1,103 @@
+{
+  "rarity": "Common",
+  "class": "Support",
+  "type": "Base Type",
+  "tags": [
+    "#Tag"
+  ],
+  "images": {
+    "preview": "characters/char_004/preview.png",
+    "full": "characters/char_004/full.png",
+    "chibi": "characters/char_004/chibi.gif",
+    "conquerorA": "characters/char_004/conqueror_pathA.png",
+    "conquerorB": "characters/char_004/conqueror_pathB.png"
+  },
+  "sounds": {
+    "voice": "sounds/char_004/voice.mp3",
+    "skill": "sounds/char_004/skill.mp3",
+    "summon": "sounds/char_004/summon.mp3"
+  },
+  "animations": {
+    "idle": "animations/char_004/idle.gif",
+    "walk": "animations/char_004/walk.gif",
+    "attack": "animations/char_004/attack.gif",
+    "skill": "animations/char_004/skill.gif",
+    "death": "animations/char_004/death.gif"
+  },
+  "status": {
+    "hp": 1200,
+    "atk": 500,
+    "def": 300,
+    "res": 200,
+    "spd": 100,
+    "range": 3,
+    "block": 1
+  },
+  "abilities": {
+    "passive": {
+      "en": "Passive ability description.",
+      "th": "คำอธิบัติ passive"
+    },
+    "active": {
+      "en": "Active skill description.",
+      "th": "คำอธิบัติ active"
+    },
+    "ultimate": {
+      "en": "Ultimate skill description.",
+      "th": "คำอธิบัติ ultimate"
+    }
+  },
+  "upgrade": {
+    "level": 1,
+    "stars": 1,
+    "xp": 0,
+    "chosenPath": null,
+    "evolved": false,
+    "conqueror": {
+      "unlocked": false,
+      "title": "",
+      "altPreview": "",
+      "bonus": ""
+    }
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": {
+        "en": "Path A",
+        "th": "สาย A"
+      },
+      "bonus": {
+        "en": "+Effect",
+        "th": "+ผล"
+      },
+      "unlock_skill": {
+        "en": "Skill A",
+        "th": "สกิล A"
+      }
+    },
+    "pathB": {
+      "title": {
+        "en": "Path B",
+        "th": "สาย B"
+      },
+      "bonus": {
+        "en": "+Effect",
+        "th": "+ผล"
+      },
+      "unlock_skill": {
+        "en": "Skill B",
+        "th": "สกิล B"
+      }
+    }
+  },
+  "lore": {
+    "en": "Background lore for this character.",
+    "th": "เนื้อเรื่องพื้นหลังของตัวละครนี้"
+  },
+  "isNew": true,
+  "locked": false,
+  "id": "char_004",
+  "uid": "card_char_004_001",
+  "name": "Altis Rynn",
+  "receivedAt": 1745445573046
+}

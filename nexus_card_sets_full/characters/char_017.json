@@ -1,0 +1,103 @@
+{
+  "rarity": "Common",
+  "class": "Support",
+  "type": "Base Type",
+  "tags": [
+    "#Tag"
+  ],
+  "images": {
+    "preview": "characters/char_017/preview.png",
+    "full": "characters/char_017/full.png",
+    "chibi": "characters/char_017/chibi.gif",
+    "conquerorA": "characters/char_017/conqueror_pathA.png",
+    "conquerorB": "characters/char_017/conqueror_pathB.png"
+  },
+  "sounds": {
+    "voice": "sounds/char_017/voice.mp3",
+    "skill": "sounds/char_017/skill.mp3",
+    "summon": "sounds/char_017/summon.mp3"
+  },
+  "animations": {
+    "idle": "animations/char_017/idle.gif",
+    "walk": "animations/char_017/walk.gif",
+    "attack": "animations/char_017/attack.gif",
+    "skill": "animations/char_017/skill.gif",
+    "death": "animations/char_017/death.gif"
+  },
+  "status": {
+    "hp": 1200,
+    "atk": 500,
+    "def": 300,
+    "res": 200,
+    "spd": 100,
+    "range": 3,
+    "block": 1
+  },
+  "abilities": {
+    "passive": {
+      "en": "Passive ability description.",
+      "th": "คำอธิบัติ passive"
+    },
+    "active": {
+      "en": "Active skill description.",
+      "th": "คำอธิบัติ active"
+    },
+    "ultimate": {
+      "en": "Ultimate skill description.",
+      "th": "คำอธิบัติ ultimate"
+    }
+  },
+  "upgrade": {
+    "level": 1,
+    "stars": 1,
+    "xp": 0,
+    "chosenPath": null,
+    "evolved": false,
+    "conqueror": {
+      "unlocked": false,
+      "title": "",
+      "altPreview": "",
+      "bonus": ""
+    }
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": {
+        "en": "Path A",
+        "th": "สาย A"
+      },
+      "bonus": {
+        "en": "+Effect",
+        "th": "+ผล"
+      },
+      "unlock_skill": {
+        "en": "Skill A",
+        "th": "สกิล A"
+      }
+    },
+    "pathB": {
+      "title": {
+        "en": "Path B",
+        "th": "สาย B"
+      },
+      "bonus": {
+        "en": "+Effect",
+        "th": "+ผล"
+      },
+      "unlock_skill": {
+        "en": "Skill B",
+        "th": "สกิล B"
+      }
+    }
+  },
+  "lore": {
+    "en": "Background lore for this character.",
+    "th": "เนื้อเรื่องพื้นหลังของตัวละครนี้"
+  },
+  "isNew": true,
+  "locked": false,
+  "id": "char_017",
+  "uid": "card_char_017_001",
+  "name": "Trinelle Ayra",
+  "receivedAt": 1745445573052
+}

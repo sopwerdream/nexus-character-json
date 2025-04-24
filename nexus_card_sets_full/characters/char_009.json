@@ -1,0 +1,103 @@
+{
+  "rarity": "Common",
+  "class": "Support",
+  "type": "Base Type",
+  "tags": [
+    "#Tag"
+  ],
+  "images": {
+    "preview": "characters/char_009/preview.png",
+    "full": "characters/char_009/full.png",
+    "chibi": "characters/char_009/chibi.gif",
+    "conquerorA": "characters/char_009/conqueror_pathA.png",
+    "conquerorB": "characters/char_009/conqueror_pathB.png"
+  },
+  "sounds": {
+    "voice": "sounds/char_009/voice.mp3",
+    "skill": "sounds/char_009/skill.mp3",
+    "summon": "sounds/char_009/summon.mp3"
+  },
+  "animations": {
+    "idle": "animations/char_009/idle.gif",
+    "walk": "animations/char_009/walk.gif",
+    "attack": "animations/char_009/attack.gif",
+    "skill": "animations/char_009/skill.gif",
+    "death": "animations/char_009/death.gif"
+  },
+  "status": {
+    "hp": 1200,
+    "atk": 500,
+    "def": 300,
+    "res": 200,
+    "spd": 100,
+    "range": 3,
+    "block": 1
+  },
+  "abilities": {
+    "passive": {
+      "en": "Passive ability description.",
+      "th": "คำอธิบัติ passive"
+    },
+    "active": {
+      "en": "Active skill description.",
+      "th": "คำอธิบัติ active"
+    },
+    "ultimate": {
+      "en": "Ultimate skill description.",
+      "th": "คำอธิบัติ ultimate"
+    }
+  },
+  "upgrade": {
+    "level": 1,
+    "stars": 1,
+    "xp": 0,
+    "chosenPath": null,
+    "evolved": false,
+    "conqueror": {
+      "unlocked": false,
+      "title": "",
+      "altPreview": "",
+      "bonus": ""
+    }
+  },
+  "evolution_paths": {
+    "pathA": {
+      "title": {
+        "en": "Path A",
+        "th": "สาย A"
+      },
+      "bonus": {
+        "en": "+Effect",
+        "th": "+ผล"
+      },
+      "unlock_skill": {
+        "en": "Skill A",
+        "th": "สกิล A"
+      }
+    },
+    "pathB": {
+      "title": {
+        "en": "Path B",
+        "th": "สาย B"
+      },
+      "bonus": {
+        "en": "+Effect",
+        "th": "+ผล"
+      },
+      "unlock_skill": {
+        "en": "Skill B",
+        "th": "สกิล B"
+      }
+    }
+  },
+  "lore": {
+    "en": "Background lore for this character.",
+    "th": "เนื้อเรื่องพื้นหลังของตัวละครนี้"
+  },
+  "isNew": true,
+  "locked": false,
+  "id": "char_009",
+  "uid": "card_char_009_001",
+  "name": "Dante Hollow",
+  "receivedAt": 1745445573048
+}
